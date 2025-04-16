@@ -270,7 +270,8 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
     
 ```bash
 your code
-```
+![image](https://github.com/user-attachments/assets/1787ae7a-93c3-4e74-80ab-3908f9571b3c)
+
 
 </details>
 
@@ -307,11 +308,10 @@ cat ./function
 **What happend?**
 <details>
     <summary>Your Explaination</summary>
-    .....
+    Bei dem > bezeichner wird die Funktion mit der 2 ten Funktion überschrieben. Wird jedoch >> verwendet wird die zweite Funktion hinten dran gehangen. 
 
 </details>
 
---- 
 
 Close the terminal and open it up again. 
 Your memorized function-identifiers have been lost again. 
@@ -350,7 +350,7 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
     <summary>Your Answer</summary>
-    ....
+    /home/vboxuser/function
 </details>
 
 All filenames start with a `/`. 
@@ -374,7 +374,9 @@ cd /
 **Run `ls` again and insert the content here:**
 <details>
     <summary>Your Answer</summary>
-    ....
+![image](https://github.com/user-attachments/assets/0fd4e7c3-b8a6-4596-83dd-c6c403944c6e)
+
+
 </details>
 
 Now navigate through your filesystem using `cd` and the name of the directory you want to set as your new `pwd`.
@@ -391,7 +393,8 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
     <summary>Your Terminal Output</summary>
 ```bash
 your terminal output
-```
+![image](https://github.com/user-attachments/assets/e573ad6c-4d89-46fc-8e2c-3a369d086b95)
+
 </details>
 
 ### Task 10: Managing Software
