@@ -46,7 +46,8 @@ You are always free to type a new command, as soon as the computer _prompts_ you
 
 After logging in sucessfully, and getting the prompt, type `clear` and hit `enter` to clear your terminal emulators output.
 
----
+![image](https://github.com/user-attachments/assets/6e2e9165-ff85-44de-926e-94021d44396b)
+
 
 ### Task 2: Evaluating Arithmetical Expressions
 As you may remember from the first lecture, or you can infere from the name `computer`, the task of these machines is to compute programmed mappings. 
@@ -72,7 +73,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 
 <details>
     <summary>You Answer</summary>
-    ......
+    Es wird bei fehlenden $ nicht auf die Variable zugegriffen und ausschließlich der Text ausgegeben. Das $ Zeichen zeigt dementsprechend an wenn auf eine Variable zugegriffen wird. 
 </details>
 
 ### Task 3: Function-Identifiers
@@ -98,6 +99,8 @@ and pressing `enter`.
 <details>
     <summary>Calling a Function</summary>
     Include a screenshot of your function-call!
+    ![image](https://github.com/user-attachments/assets/ff0aac9f-28ec-40e8-a6d7-589cf6cb9b93)
+
 </details>
 
 ### Task 4: Handling Parameters
@@ -115,6 +118,9 @@ Invoke the function and add two integral numbers after the call:
 plus_func 5 8
 ```
 We now call `var1` and `var2` _variable identifiers_, because they can vary from function call to function call!
+
+![image](https://github.com/user-attachments/assets/dec32571-566d-41a5-90f0-def804b13b99)
+
 
 ---
 
