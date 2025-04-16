@@ -271,8 +271,8 @@ These examples demonstrate various fundamental operations in Bash scripting, inc
 ```bash
 your code
 ![image](https://github.com/user-attachments/assets/1787ae7a-93c3-4e74-80ab-3908f9571b3c)
+```bash
 
----
 </details>
 
 ### Task 6: Storing Data
